@@ -1,14 +1,5 @@
-![alt tag](https://github.com/SpartansHackTeam/SpartansFramework/blob/master/SpartansFramework.jpg)
-
-[![GitHub release](https://img.shields.io/github/release/SpartansHackTeam/SpartansFramework.svg)](https://github.com/SpartansHackTeam/SpartansFramework/releases) 
-[![GitHub issues](https://img.shields.io/github/issues/SpartansHackTeam/SpartansFramework.svg)](https://github.com/SpartansHackTeam/SpartansFramework/issues) 
-[![Github Stars](https://img.shields.io/github/stars/SpartansHackTeam/SpartansFramework.svg?style=social&label=Stars)](https://github.com/SpartansHackTeam/SpartansFramework/) 
-[![GitHub Followers](https://img.shields.io/github/followers/SpartansHackTeam.svg?style=social&label=Follow)](https://github.com/SpartansHackTeam/SpartansFramework/)
-[![Tweet](https://img.shields.io/twitter/url/http/xer0dayz.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=SpartansFramework%20-%20Automated%20Pentest%20Recon%20Scanner&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2FSpartansHackTeam%2FSpartansFramework)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/xer0dayz.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=xer0dayz)
-
 ## ABOUT:
-SpartansFramework Community Edition is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities. SpartansFramework Professional is Xero Security's premium reporting addon for Professional Penetration Testers, Bug Bounty Researchers and Corporate Security teams to manage large environments and pentest scopes. For more information regarding SpartansFramework Professional, go to https://xerosecurity.com. 
+SpartansFramework Community Edition is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities. SpartansFramework Professional is Spartans Hack Team's premium reporting addon for Professional Penetration Testers, Bug Bounty Researchers and Corporate Security teams to manage large environments and pentest scopes. For more information regarding SpartansFramework Professional, go to https://spartansht.online. 
 
 ## SN1PER PROFESSIONAL FEATURES:
 ### Workspace Navigator 
