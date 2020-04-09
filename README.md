@@ -4,26 +4,16 @@ SpartansFramework Community Edition is an automated scanner that can be used dur
 ## SN1PER PROFESSIONAL FEATURES:
 ### Workspace Navigator 
 - [x] Easily navigate all workspaces within SpartansFramework
-![](https://xerosecurity.com/wordpress/wp-content/uploads/2019/05/SpartansFramework-v7-workspacenavigator.png)
 ### Workspace Dashboard
 - [x] Get a high level view of the attack surface with overall scan progress
-![](https://xerosecurity.com/wordpress/wp-content/uploads/2019/05/SpartansFramework-Professional-v7.0-Top-Menu1.png)
 ### Slideshow 
 - [x] Visualize the attack surface by easily flipping through all gathered screenshots
-![](https://xerosecurity.com/images/SpartansFramework-v6_screenshot6c.png)
 ### Host List
 - [x] Easily search and sort through all hosts within the workspace using various meta properties
-![](https://xerosecurity.com/wordpress/wp-content/uploads/2019/05/SpartansFramework-Professional-v7.0-Host-List2.png)
 ### Detailed Host Reports 
 - [x] Get more details on any host within the workspace. 
-![](https://xerosecurity.com/images/SpartansFramework-v6_screenshot33.PNG)
 ### NMap HTML Reports
 - [x] View low level network information on each host
-![](https://xerosecurity.com/images/SpartansFramework-v6_screenshot9.png)
-### Demo Video:
-[![Demo](https://i2.wp.com/xerosecurity.com/wordpress/wp-content/uploads/2019/05/SpartansFramework-Professional-v7.0-Demo.png?w=1281&ssl=1)](https://www.youtube.com/watch?v=YlRRNM3vd8k)
-### Purchase SpartansFramework Professional:
-To obtain a SpartansFramework Professional license, go to https://xerosecurity.com. 
 
 ## SN1PER COMMUNITY FEATURES:
 - [x] Automatically collects basic recon (ie. whois, ping, DNS, etc.)
